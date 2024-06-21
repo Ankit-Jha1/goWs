@@ -1,0 +1,6 @@
+put in notes (ideas when coding)
+- project structure 
+- internal folder -> only useful for this application, but repeatable
+- i am using default router , not the one he is using 
+
+- emmet i can use => ctrl shift p 
